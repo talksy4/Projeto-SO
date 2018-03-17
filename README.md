@@ -1,6 +1,7 @@
 # Projeto de SO
 
-Equipe:
+**Equipe:**
+
 [Janaína Felix](https://github.com/janainafelix)
 
 [Karoline Lima](https://github.com/KarolineLima)
