@@ -65,13 +65,11 @@ A definição clássica de um chatbot é um programa de computador que processa 
 
 **Instalação do chatbots:**
 
-Chatbots utilizado:  [Chatterbots](https://github.com/gunthercox/ChatterBot)
-
  `pip install chatterbot
  `
+Chatbots utilizado:  [Chatterbots](https://github.com/gunthercox/ChatterBot)
 
 - [x] Finalizado
-
 
 
 
