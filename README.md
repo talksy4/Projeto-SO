@@ -1,9 +1,12 @@
 # Projeto de SO
 
 Equipe:
-\*[Janaína Felix](https://github.com/janainafelix)\*
-\*[Karoline Lima](https://github.com/KarolineLima)\*
-\*[Yane Vasquez](https://github.com/YaneVasquez)\*
+[Janaína Felix](https://github.com/janainafelix)
+
+[Karoline Lima](https://github.com/KarolineLima)
+
+[Yane Vasquez](https://github.com/YaneVasquez)
+
 
 ## O que são Chatbots? 
 
