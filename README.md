@@ -50,7 +50,6 @@ A definição clássica de um chatbot é um programa de computador que processa 
 
  >- [Tutorial da equipe](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975913)
  
-- [x] Finalizado
 
 ## Comandos de Instalação:
 
@@ -68,6 +67,7 @@ Chatbots utilizado:  [Chatterbots](https://github.com/gunthercox/ChatterBot)
 
   `pip install chatterbot` 
 
+- [x] Finalizado
 
 
 
