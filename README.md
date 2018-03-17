@@ -55,17 +55,18 @@ A definição clássica de um chatbot é um programa de computador que processa 
 
 **Instalação de Dependências:** 
 
-###> Idle3:
+### > Idle3:
 
   `sudo apt-get install idle3` 
   
-###> Pip3:
+### > Pip3:
 
 `sudo apt-get install python3-pip`
 
 **Instalação do chatbots:**
 
 Foi utilizado o programa:[*Chatterbots*](https://github.com/gunthercox/ChatterBot)
-## Chatterbot:
+
+**Chatterbot:**
   `pip install chatterbot` 
 
